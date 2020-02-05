@@ -1,7 +1,6 @@
-*one*
-**two**
-* three
-# Four
-`five`
-## Six
-[seven](http://tiny.cc/dcf/index.html)
+### An Introduction
+   
+Arithmetic is *easy*! For instance
+```{r}
+3 + 2
+```
